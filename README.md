@@ -5,6 +5,8 @@ This is a sample app that shows how to use the [SQL Management Objects (SMO)](ht
 - connects to a local SQL instance
 - scripts the tables in a specific database
 
+![smo sample run](./sample-run.png)
+
 ## More information about SQL Management Objects (SMO) available in:
 - the source code at https://github.com/microsoft/sqlmanagementobjects
 - the documentation at https://docs.microsoft.com/sql/relational-databases/server-management-objects-smo/overview-smo
